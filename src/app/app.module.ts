@@ -10,6 +10,7 @@ import { AboutComponent } from './pages/about/about.component';
 import { SuscriptionComponent } from './shared/suscription/suscription.component';
 import { ContactComponent } from './pages/contact/contact.component';
 import { HomeComponent } from './pages/home/home.component';
+import { ContentComponent } from './pages/content/content.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { HomeComponent } from './pages/home/home.component';
     AboutComponent,
     SuscriptionComponent,
     ContactComponent,
-    HomeComponent
+    HomeComponent,
+    ContentComponent
   ],
   imports: [
     BrowserModule,
