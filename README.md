@@ -1,4 +1,19 @@
 # TGT
+# THE GAMES TIMES
+
+# Revista TGT
+
+### B2C
+
+
+## Autores ✒️
+
+* José Gómez    - [J17F](https://github.com/J17F)
+* María López    - [mflxz](https://github.com/mflxz)
+* Anibal Arévalo          - [anibalarevalo](https://github.com/anibalarevalo)
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
 
