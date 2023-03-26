@@ -3271,10 +3271,16 @@ textarea.form-control-lg {
   border-color: #212529;
 }
 
+.btn-outline-icon {
+  color: #FF7070;
+  border-color: #FF7070;
+}
+
 .btn-outline-primary {
   color: #0d6efd;
   border-color: #0d6efd;
 }
+
 .btn-outline-primary:hover {
   color: #fff;
   background-color: #0d6efd;
@@ -7717,6 +7723,12 @@ textarea.form-control-lg {
 }
 
 /* rtl:end:remove */
+
+.text-icon {
+  --bs-text-opacity: 1;
+  color: rgba(var(--bs-icon-rgb), var(--bs-text-opacity)) !important;
+}
+
 .text-primary {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
