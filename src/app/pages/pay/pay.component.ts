@@ -2,11 +2,11 @@ import { Component } from '@angular/core';
 import { InfopageService } from '../../services/infopage.service';
 
 @Component({
-  selector: 'app-home',
-  templateUrl: './home.component.html',
-  styleUrls: ['./home.component.css']
+  selector: 'app-pay',
+  templateUrl: './pay.component.html',
+  styleUrls: ['./pay.component.css']
 })
-export class HomeComponent {
+export class PayComponent {
 
   constructor( public infoPage: InfopageService ){ }
 
