@@ -3031,6 +3031,17 @@ textarea.form-control-lg {
   opacity: 0.65;
 }
 
+.btn-icon {
+  color: #fff;
+  background-color: #FF7070;
+  border-color: #FF7070;
+}
+.btn-icon:hover {
+  color: #fff;
+  background-color: #FF7070;
+  border-color: #FF7070;
+}
+
 .btn-primary {
   color: #fff;
   background-color: #0d6efd;
