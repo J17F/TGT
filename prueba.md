@@ -1,4 +1,5 @@
-erDiagram
+
+
     PACIENTES {
         INT Registro PK
         VARCHAR Historia
